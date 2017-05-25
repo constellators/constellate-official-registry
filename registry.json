@@ -1,0 +1,12 @@
+{
+	"constellate-template-react-universally": {
+		"minVersion": "0.0.15",
+		"keywords": [
+			"react",
+			"express",
+			"ssr"
+			"pwa"
+		],
+		"description": "A PWA server side rendering React/Express application"
+	}
+}
