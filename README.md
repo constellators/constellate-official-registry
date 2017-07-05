@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://cdn.rawgit.com/ctrlplusb/constellate/20baeb89/assets/logo.png" />
+  <img src="https://cdn.rawgit.com/constellators/constellate/8e303aad/assets/logo-full.png" width="250" height="152.84" />
 </p>
 
-<h1 align="center">constellate-official-registry</h1>
+# constellate-official-registry
 
 Official template registry for the [Constellate](https://github.com/ctrlplusb/constellate) eco system.
