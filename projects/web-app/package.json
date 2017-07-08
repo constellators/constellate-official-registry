@@ -1,17 +1,19 @@
 {
-  "version": "0.2.0",
-  "name": "constellate-official-registry-web-app",
-  "description": "The React powered web app for the Constellate Registry",
-  "files": ["modules"],
-  "dependencies": {
-    "glamor": "2.20.25",
-    "glamorous": "3.23.5",
-    "normalize.css": "7.0.0",
-    "prop-types": "15.5.10",
-    "react": "15.6.1",
-    "react-dom": "15.6.1",
-    "react-modal": "2.2.1",
-    "react-router-dom": "4.1.1",
-    "react-sizeme": "2.3.4"
-  }
+	"version": "0.2.1",
+	"name": "constellate-official-registry-web-app",
+	"description": "The React powered web app for the Constellate Registry",
+	"files": [
+		"modules"
+	],
+	"dependencies": {
+		"glamor": "2.20.25",
+		"glamorous": "3.23.5",
+		"normalize.css": "7.0.0",
+		"prop-types": "15.5.10",
+		"react": "15.6.1",
+		"react-dom": "15.6.1",
+		"react-modal": "2.2.1",
+		"react-router-dom": "4.1.1",
+		"react-sizeme": "2.3.4"
+	}
 }
