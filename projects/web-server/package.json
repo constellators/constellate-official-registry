@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
   "private": true,
-  "name": "@registry/web-server",
+  "version": "0.1.2",
+  "name": "constellate-official-registry-web-server",
   "description": "The web server for Constellate Registry",
   "main": "modules/index.js",
   "dependencies": {

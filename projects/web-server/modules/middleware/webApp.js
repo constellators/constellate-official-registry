@@ -1,6 +1,8 @@
 const ConstellateUtils = require('constellate-utils')
 
-const webAppManifest = ConstellateUtils.getWebProjectManifest('@registry/web-app')
+const webAppManifest = ConstellateUtils.getWebProjectManifest(
+  'constellate-official-registry-web-app',
+)
 
 const stylesheet = url => `<link rel="stylesheet" href="${url}" />`
 const script = url => `<script type="text/javascript" src="${url}"></script>`

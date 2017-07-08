@@ -24,7 +24,9 @@ requestLoggerMiddleware(app)
 app.use('/', staticFilesMiddlware)
 
 // web-front-end
-const webAppManifest = ConstellateUtils.getWebProjectManifest('@registry/web-app')
+const webAppManifest = ConstellateUtils.getWebProjectManifest(
+  'constellate-official-registry-web-app',
+)
 app.use(webAppManifest.httpPaths.root, express.static(webAppManifest.serverPaths.root))
 app.use('*', webAppMiddleware)
 

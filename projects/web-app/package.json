@@ -1,7 +1,6 @@
 {
   "version": "0.1.0",
-  "private": true,
-  "name": "@registry/web-app",
+  "name": "constellate-official-registry-web-app",
   "description": "The React powered web app for the Constellate Registry",
   "main": "modules/index.js",
   "dependencies": {
